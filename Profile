@@ -1,6 +1,6 @@
 _Update_
 {
-https://docs.google.com/document/d/1Cfytl8faM_SkbMNjkk0GcP9Shiha6Yc2M6i1pzbtBXo/edit?usp=sharing - Link to Change log
+https://github.com/navytuna/Charles-Stephens/ || Link to the Github Repo I am using to store Charles Stephens
 (Note: Everything in () are OOC notes. Everything in {} is extra OOC formatting.)
 
 *Quotes:* "And so the final moves are played out" - Charles after learning about the fall of Reach. These words were some of the few he spoke outside of standard military communication post-Reach until the unofficial end of the war occurred in early 2553.
@@ -17,9 +17,9 @@ https://docs.google.com/document/d/1Cfytl8faM_SkbMNjkk0GcP9Shiha6Yc2M6i1pzbtBXo/
 *Age:* 38
 
 
-*Service Number:* 19240-48513CS
+*Service Number:* 19240-48513-CS
 
-*Date of Birth:*   5/16/2525
+*Date of Birth:*   5/16/2525 (Earth Standard Calender)
 
 *Race:*  Human
 
@@ -41,14 +41,15 @@ https://docs.google.com/document/d/1Cfytl8faM_SkbMNjkk0GcP9Shiha6Yc2M6i1pzbtBXo/
 
 *IQ:* 147-153
 
-*Intoxicated [EBAC .06-.3] IQ [Avg.]:* 63
+*Intoxicated [EBAC .06-.3] IQ [Avg.]:* 82-63
 
-*Skills:*  Piloting most small scale vehicles (i.e. Pelican), Skilled with a M6 Series magnum (193 points on the current USMC scale {Source USMC Official website}), superb at data management programming languages (Modern day examples include PERL or Batch), proficient at programming object oriented languages (Modern day examples include Java and C++)
+*Skills:*  Flying transport craft (, Skilled with a M6 Series magnum (193 points on the current USMC scale {Source USMC Official website}), superb at data management programming languages (Modern day examples include PERL or Batch), proficient at programming object oriented languages (Modern day examples include Java and C++)
 
 *Known Languages:*
 English - The first language he learned
 Latin - The second language he learned. Not much abnormal to note.
-Sangheili (In the process of learning; Started learning on 11/16/2562) - Status: Able to continue a conversation for up to 15 minutes (Approx.).
+Sangheili 
+  Common Dialect - Learned, 
 
 *Medical:* 
 Blood Type: B RH-
