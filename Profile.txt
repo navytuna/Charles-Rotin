@@ -1,4 +1,4 @@
-_Update_
+_Update_ (Subcategory: Realism check) (Subcat 2: Formatting fix) [Peer Canon Check requested]
 {
 https://github.com/navytuna/Charles-Stephens/ || Link to the Github Repo I am using to store Charles Stephens
 (Note: Everything in () are OOC notes. Everything in {} is extra OOC formatting.)
@@ -8,13 +8,12 @@ https://github.com/navytuna/Charles-Stephens/ || Link to the Github Repo I am us
 
 “Aer est amicus meus, sed contra te malum.” _The air is my friend, but it is your doom._
 
-*Theme:* One Final Effort: Halo 3 OST (https://www.youtube.com/watch?v=HIDR5ZBQBfo)
+*Theme:* Shreddin (Extended): Halo CE Hidden OST (https://www.youtube.com/watch?v=yhi-qnOdXxU)
 }
 
 *Name:* Charles W. Stephens
 
 *Age:* 38
-
 
 *Service Number:* 19240-48513-CS
 
@@ -25,6 +24,10 @@ https://github.com/navytuna/Charles-Stephens/ || Link to the Github Repo I am us
 *Faction:*  UNSC 
 
 *Rank:*  Master Sergeant [E-7] [UNSC Air Force]
+
+*Original MOS:* 3DOX2
+
+*MOS:* 11HX
 
 *Height:*  186.84 CM
 
@@ -42,7 +45,7 @@ https://github.com/navytuna/Charles-Stephens/ || Link to the Github Repo I am us
 
 *Intoxicated [EBAC .06-.3] IQ [Avg.]:* 63-87
 
-*Skills:*  Flying transport craft (Pelican, Albatross, Falcon, Phantom) Skilled with a M6 Series magnum (193 points on the current USMC scale {Source USMC Official website}), superb at data management programming languages (Modern day examples include PERL or Batch), proficient at programming object oriented languages (Modern day examples include Java and C++)
+*Skills:*  Flying transport craft (Pelican, Albatross, Falcon, Phantom), Skilled with a M6 Series magnum (193 points on the current USMC scale {Source USMC Official website}), superb at data management programming languages (Modern day examples include PERL or Batch), proficient at programming object oriented languages (Modern day examples include Java and C++), trained for combat drops in HEVs (See section on Fireteam Tempest), trained as a field medic (also did a stint as a nurse in the 2/21/6/MMD during an insurrection attack on Harmony 3 weeks before the 241st was transferred from the planet), sufficient understanding of aircraft maitenence, semi-consciously able to shut down all emotions, extreme understanding of military beauracracy
 
 *Known Languages:*
 English - The first language he learned
