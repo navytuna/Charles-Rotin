@@ -50,10 +50,14 @@ https://github.com/navytuna/Charles-Stephens/ || Link to the Github Repo I am us
 *Skills:*  Flying transport craft (Pelican, Albatross, Falcon, Phantom), Skilled with a M6 Series magnum (193 points on the current USMC scale {Source USMC Official website}), superb at data management programming languages (Modern day examples include PERL or Batch), proficient at programming object oriented languages (Modern day examples include Java and C++), trained for combat drops in HEVs (See section on Fireteam Tempest), trained as a field medic (also did a stint as a nurse in the 2/21/6/MMD during an insurrection attack on Harmony 3 weeks before the 241st was transferred from the planet), sufficient understanding of aircraft maitenence, semi-consciously able to shut down all emotions, extreme understanding of military beauracracy
 
 *Known Languages:*
-English - The first language he learned
+English - Charles' native language
+    Read - Fluent reader
+    Write - Fluent writer
 Latin - The second language he learned. Not much abnormal to note.
+    Read - Passable reader
+    Write - Passable, although it reads as if a child is writing it
 Sangheili 
-  Common Dialect - Learned, although he has a relatively limited vocabulary
+  Common Dialect - Learned, and he speaks
     Read - Forerunner based glyph system and Covenant Calligraphy (It is not stated in canon if Covenant Calligraphy is a modified script for the Sangheili, although it could be postulated that it is, as the characters used by weapons post-Halo 3 use a slightly different system of writing.)
     Write - Charles can write in both systems, but he is much more proficient at Covennant Calligraphy.
   Generalized Covenant Dialect - Not learned
@@ -72,10 +76,10 @@ Sangheili
 *Medical:* 
 Blood Type: B RH-
 Ethnicity: Hispanic
-Allergies: Peaches
+Allergies: Peaches [Waived]
 Gender: M
 DOB: 05/16/2525
-Mental Conditions [If any]: ASD [Asperger's Syndrome] [Usually not noticable]
+Mental Conditions [If any]: ASD [Asperger's Syndrome] [Usually not noticable] [Waived]
 Gene Sequence: [Restricted Access; Check CENTMED|E for access.]
 Mental Status: Stable; Combat approved.
 Physical Status: Stable; Combat approved.
